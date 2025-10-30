@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/ylow/repos/loophuman/backend/src/auth'
+let g:netrw_dirhist_1='/Users/ylow/hf/xet-core/chunk_cache/src/disk'
+let g:netrw_dirhist_0='/Users/ylow/tmp/zzz'
+let g:netrw_dirhist_9='/Users/ylow/tmp/a'
+let g:netrw_dirhist_8='/Users/ylow/mamba/envs/py312arm/lib/python3.12/site-packages/huggingface_hub/__pycache__'
+let g:netrw_dirhist_7='/Users/ylow/hf/xetcas/cas_server/src/db'
+let g:netrw_dirhist_6='/Users/ylow/hf/xetcas/cas_server/src/test_utils'
+let g:netrw_dirhist_5='/Users/ylow/hf/xetcas/cas_server/src/db'
+let g:netrw_dirhist_4='/Users/ylow/hf/xetcas/cas_server/src/test_utils'
+let g:netrw_dirhist_3='/Users/ylow/hf/xetcas/cas_server/src/middleware'
