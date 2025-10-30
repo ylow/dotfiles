@@ -279,6 +279,6 @@ augroup rust
 	autocmd FileType rust call YcmStuff()
 augroup end
 
-imap <c-Left> <Plug>(copilot-previous)
-imap <c-Right> <Plug>(copilot-next)
+"imap <c-Left> <Plug>(copilot-previous)
+"imap <c-Right> <Plug>(copilot-next)
 
